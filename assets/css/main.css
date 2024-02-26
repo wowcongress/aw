@@ -229,8 +229,9 @@ input, select, textarea {
 	@media screen and (max-width: 736px) {
 
 		h1 {
-			font-size: 1.75rem;
+			font-size: 1.40rem;
 			line-height: 1.4;
+			
 		}
 
 		h2 {
@@ -1296,6 +1297,7 @@ input, select, textarea {
 			line-height: 5.5rem;
 			border: solid 1px #ffffff;
 			border-radius: 100%;
+			background-image: url("../../images/16.png");;
 		}
 
 			#header .logo .icon:before {
@@ -1331,7 +1333,7 @@ input, select, textarea {
 			#header .content p {
 				text-transform: uppercase;
 				letter-spacing: 0.2rem;
-				font-size: 0.8rem;
+				font-size: 1.8rem;
 				line-height: 2;
 			}
 
@@ -1448,6 +1450,7 @@ input, select, textarea {
 
 				#header .logo .icon:before {
 					font-size: 1.75rem;
+					
 				}
 
 			#header .content .inner {
@@ -1658,4 +1661,7 @@ input, select, textarea {
 
 		body.is-preload #footer {
 			opacity: 0;
+		}
+		p2{
+			font-size: 1.40rem;
 		}
